@@ -97,3 +97,5 @@
         Deleted branch test_beanch_1 (was 0fda861).
         m@m:~/Python_practice/Python_practice$
 
+7. some usefull commands:
+    for disk space --> du -sh
